@@ -130,10 +130,12 @@ Front End Interview Handbook
 Read on the website
 Join/follow us on LinkedIn | Discord | 𝕏 (Twitter) | Facebook
 
+
 Start Reading Front End Interview Handbook
 Start Practicing Front End Questions on GreatFrontEnd
 What is this?
 Unlike typical software engineer job interviews, front end job interviews have less emphasis on algorithms and have more questions on intricate knowledge and expertise about the domain — HTML, CSS, JavaScript, just to name a few areas. This repository covers all you need to know for front end interviews:
+
 
 Various formats of Front end interviews including formats by different companies
 Front end system design interviews
@@ -144,6 +146,7 @@ Where to get hands on practice?
 GreatFrontEnd
 After getting a good understanding about front end interview preparation, try out GreatFrontEnd, a platform built by me! Not only are there 200+ practice questions, each with multiple solutions from Senior Front End Engineers, there are also automated test case suites to help you identify what's wrong with your code. Thus, check out the following resources:
 
+
 Study plans help you prepare for your upcoming technical interviews, whether it is in a week or 3 months later.
 Focus areas allow you to focus on your weak areas and also further improve your strengths depending on your preferences.
 Preparation by stage prepares you for each phase of your interview process, from quiz to coding interviews.
@@ -151,6 +154,7 @@ Individual framework questions offer training based on specific frameworks that 
 Need to practice front end interview questions? GreatFrontEnd is holding a limited time promotion for 20% off their lifetime plan of high quality practice questions and reference solutions written by ex-FAANG interviewers 🚀
 Looking for Generic Interview Preparation?
 You might be interested in the Tech Interview Handbook which has helpful content on general coding interviews such as algorithms, behavioral questions and an interview cheatsheet!
+
 
 Web Technologies illustration
 Credits: Illustration by unDraw
@@ -167,6 +171,7 @@ Russian (Русский)
 Tagalog
 Related
 If you are interested in how data structures are implemented, check out Lago, a Data Structures and Algorithms library for JavaScript. It's meant for reference and studying purposes, not for production use.
+
 
 Contributing
 Contributing Guide
